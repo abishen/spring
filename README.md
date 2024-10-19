@@ -9,8 +9,8 @@ application.properties
 ```
 spring.application.name=contacts
 spring.application.cosmos =
-````
 ```
+````
 
 ## Java JDK version v17 
 
